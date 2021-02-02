@@ -1,0 +1,18 @@
+---
+refresh-interval: 2
+urls:
+  - https://www.newegg.com/asrock-radeon-rx-5600-xt-rx5600xt-clp-6go/p/N82E16814930043
+  - https://www.newegg.com/asus-radeon-rx-5600-xt-rog-strix-rx5600xt-t6g-gaming/p/N82E16814126432
+  - https://www.newegg.com/gigabyte-radeon-rx-5600-xt-gv-r56xtgaming-oc-6gd-rev-2-0/p/N82E16814932307
+  - https://www.newegg.com/sapphire-radeon-rx-5600-xt-100419p6gbel/p/N82E16814202373
+  - https://www.newegg.com/asus-radeon-rx-5600-xt-dual-rx5600xt-t6g-evo/p/N82E16814126428
+  - https://www.newegg.com/asrock-radeon-rx-5600-xt-rx5600xt-pgd3-6go/p/N82E16814930028
+  - https://www.newegg.com/powercolor-radeon-rx-5600-xt-axrx-5600xt-6gbd6-3dhr-oc/p/N82E16814131760
+  - https://www.newegg.com/asus-geforce-rtx-2060-dual-rtx2060-o6g-evo/p/N82E16814126349
+  - https://www.newegg.com/asus-geforce-rtx-2060-rog-strix-rtx2060-o6g-evo-gaming/p/N82E16814126425
+  - https://www.newegg.com/asus-geforce-rtx-3060-ti-dual-rtx3060ti-8g/p/N82E16814126480
+  - https://www.newegg.com/evga-geforce-rtx-3060-ti-08g-p5-3663-kr/p/N82E16814487535
+  - https://www.newegg.com/asus-radeon-rx-5700-xt-dual-rx5700xt-o8g-evo/p/N82E16814126434
+  - https://www.newegg.com/xfx-radeon-rx-5700-xt-rx-57xt83ld8/p/N82E16814150839
+  - https://www.newegg.com/xfx-radeon-rx-5700-xt-rx-57xt838d8/p/N82E16814150829
+...
